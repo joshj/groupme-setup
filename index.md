@@ -1,4 +1,4 @@
-![](https://github.com/joshj/groupme-setup/raw/master/IMG_7712.JPG | width=100)
+<img src="https://github.com/joshj/groupme-setup/raw/master/IMG_7712.JPG" data-canonical-src="https://github.com/joshj/groupme-setup/raw/master/IMG_7712.JPG" width="200" />
 
 # Board Communication
 
