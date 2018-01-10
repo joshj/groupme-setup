@@ -1,3 +1,5 @@
+![](https://github.com/joshj/groupme-setup/raw/master/IMG_7712.JPG)
+
 # Board Communication
 
 We have landed on GroupMe as our communication tool. It is currently free and owned by Skype which should give us a degree of confidence in it’s continued existence. 
