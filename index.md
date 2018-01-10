@@ -10,11 +10,13 @@ For those of you that were at the board meeting we talked about selecting a new 
 3. Ubiquitous / cross platform
 4. Cost effective
 
+![](https://d3sq5bmi4w5uj1.cloudfront.net/images/brochure/logo.png?1498584903)
+
 ## Activation:
 
 You should receive a text message that looks something like this:
 
-You've been added to “NewLife Elder Board" with (names), and (number) others on GroupMe. To chat, download the app from [https://groupme.com/a](https://groupme.com/a) or reply to this message!
+> You've been added to “NewLife Elder Board" with (names), and (number) others on GroupMe. To chat, download the app from [https://groupme.com/a](https://groupme.com/a) or reply to this message!
 
 You can also download the app yourself at: [https://groupme.com/a](https://groupme.com/a)
 
