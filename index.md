@@ -4,13 +4,13 @@
 
 We have landed on GroupMe as our communication tool. It is currently free and owned by Skype which should give us a degree of confidence in it’s continued existence. 
 
-For those of you that were at the board meeting we talked about selecting a new communication tool to replace text messages. After testing I believe that GroupMe will meet the criteria we need for a unified communication tool. 
+For those of you that were at the board meeting, we talked about selecting a new communication tool to replace text messages. After testing, I believe that GroupMe will meet the criteria we need for a unified communication tool. 
 
 ### My criteria for a replacement tool were as follows:
-1. Supports sms only devices
+1. Supports SMS only devices
 2. Easy to use
-3. Ubiquitous / cross platform
-4. Cost effective
+3. Ubiquitous / cross-platform
+4. Cost-effective
 
 ![](https://d3sq5bmi4w5uj1.cloudfront.net/images/brochure/logo.png?1498584903)
 
@@ -20,17 +20,21 @@ You should receive a text message that looks something like this:
 
 > You've been added to “NewLife Elder Board" with (names), and (number) others on GroupMe. To chat, download the app from [https://groupme.com/a](https://groupme.com/a) or reply to this message!
 
-You can also download the app yourself at: [https://groupme.com/a](https://groupme.com/a)
+You can also download the app yourself at [https://groupme.com/a](https://groupme.com/a)
 
 ### Smart Phone
 
-Once the app is downloaded and you have been added to the `NewLife Elder Board` group we would ask a couple of things. 
+Once the app is downloaded, and you have been added to the `NewLife Elder Board` group we would ask a couple of things. 
 
 1. Please place the app on your home screen.
 2. Please make sure you turn on push notifications.
 
-### Basic Cell phones (Non App)
+### Basic Cell phones (Non-App)
 
-GroupMe supports text messages automatically. If you have a phone that does not support apps don’t worry. You can simply reply to the phone number you get the texts from and everyone in the group will automatically receive the message across their devices.
+GroupMe supports text messages automatically. If you have a phone that does not support apps, don’t worry. You can simply reply to the phone number you get the texts from, and everyone in the group will automatically receive the message across their devices.
 
+## Buy-in
 
+Communication is key to any organization, but especially it's leaders. Your engagement is important, and we are here to help you get setup. 
+
+If you have any trouble getting setup, please feel free to contact one of the more tech-savvy staff (Christopher, Joel, Jay, Joseph, or Costa) for support or feel free to stop in the offices to help get your device up and running.
